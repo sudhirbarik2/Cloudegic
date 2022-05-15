@@ -8,7 +8,8 @@ let projectData = [
     pDescription: "Project 1’s Description",
     skillSet: ["ReactJs","Node js","Express Js","MongoDb"],
     noOfMembers: 2,
-    isActive: true
+    isActive: true,
+    creationDate:"15/5/2022"
 },
 {
     pId:"P002",
@@ -16,7 +17,8 @@ let projectData = [
     pDescription: "Project 2’s Description",
     skillSet: ["ReactJs","Node js","Express Js","MongoDb"],
     noOfMembers: 5,
-    isActive: true
+    isActive: true,
+    creationDate:"15/5/2022"
 }
 ]
 exports.userSetup = () => {

@@ -8,7 +8,7 @@ class Project {
         this.skillSet = obj.skillSet;
         this.noOfMembers = obj.noOfMembers;
         this.isActive = obj.isActive;
-
+        this.creationDate=obj.creationDate;
     }
 }
 
